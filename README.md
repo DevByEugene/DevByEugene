@@ -17,8 +17,8 @@ Let’s collaborate and create something great! 🚀
 ---
 
 ### **🚀 Projects:**  
-- 🏥 [Hospital Management System]https://github.com/DevByEugene/hospital_system – Manages patient records, appointments, and medicine inventory.  
-- 🖼️ [Photo Gallery Web App] click https://photo-app-fbrf.onrender.com/ Users can browse, like, and filter images.  
+- 🏥 [Hospital Management System](https://github.com/DevByEugene/hospital_system) – Manages patient records, appointments, and medicine inventory.  
+- 🖼️ [Photo Gallery Web App](https://photo-app-fbrf.onrender.com/) Users can browse, like, and filter images.  
 
 ---
 
