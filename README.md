@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 🧑‍💻 About Me:
-Hi, I’m Eugene Maina, a full-stack software engineer with expertise in both front-end and back-end development. I specialize in creating user-friendly web applications using HTML, CSS, JavaScript, React, Python, Node.js and Django. I also have experience in web scraping, leveraging data to provide valuable insights and drive automation.
+Hi, I’m Eugene Maina, a full-stack software engineer with expertise in both front-end and back-end development. I specialize in creating user-friendly web applications using HTML, CSS,Tailwind css, JavaScript, React, Python, Node.js and Django. I also have experience in web scraping, leveraging data to provide valuable insights and drive automation.
 
 Passionate about building scalable and efficient software, I thrive on transforming ideas into high-quality solutions. Whether it's designing intuitive user interfaces or developing robust back-end systems, I’m dedicated to delivering impactful results.
 
