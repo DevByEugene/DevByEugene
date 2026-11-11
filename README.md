@@ -1,25 +1,30 @@
 # Hi there 👋, I'm Eugene Maina.
 
-Welcome to my GitHub profile!
+Full-stack software engineer building web applications with React, Django, Node.js, and Python.
 
 ---
 
-🧑‍💻 About Me:
-Hi, I’m Eugene Maina, a full-stack software engineer with expertise in both front-end and back-end development. I specialize in creating user-friendly web applications using HTML, CSS,Tailwind css, JavaScript, React, Python, Node.js and Django. I also have experience in web scraping, leveraging data to provide valuable insights and drive automation.
+### 🧑‍💻 About Me
 
-Passionate about building scalable and efficient software, I thrive on transforming ideas into high-quality solutions. Whether it's designing intuitive user interfaces or developing robust back-end systems, I’m dedicated to delivering impactful results.
+I'm a full-stack software engineer with experience across front-end and back-end development. I build user-friendly web applications using HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, and Django. I also work with web scraping and automation to turn data into useful insights.
 
-Let’s collaborate and create something great! 🚀
-<div style="display: flex; gap: 10px;">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" />
-</div>
+I care about scalable, efficient software — from intuitive interfaces to robust back-end systems. Let's build something great. 🚀
 
 ---
 
-### **🚀 Projects:**  
-- 🏥 Hospital Management System Manages patient records, appointments, and medicine inventory.  
-- 🖼️ Photo Gallery Web App Users can browse, like, and filter images.
-  
+### 🚀 Projects
+
+- **Prodrive Suspension** — [prodrivesuspension.com](https://www.prodrivesuspension.com/)
+  E-commerce storefront for a Nairobi performance and rally suspension supplier. Per-vehicle and per-category browsing, cart, KES pricing, and WhatsApp order checkout.
+
+- **Crestfield School** — [crestfieldschool.com](https://crestfieldschool.com)
+  Website for a Cambridge-curriculum tuition and homeschooling provider. Programme details, remote/blended/on-campus learning, enrolment, teacher profiles, and an online careers application form.
+
+- **Photo Gallery Web App** — [live demo](https://photo-app-fbrf.onrender.com)
+  Browse, like, and filter images.
+
+- **Hospital Management System**
+  Patient records, appointments, and medicine inventory management.
 
 ---
 
@@ -38,11 +43,6 @@ Let’s collaborate and create something great! 🚀
 
 ### 🔗 Connect with Me
 
-📫 **Contact me:** [](your-link) | [maisheugene@gmail.com](maisheugene@gmail.com)  
+📫 **Email:** [maisheugene@gmail.com](mailto:maisheugene@gmail.com)
 
-### 💬 Feel free to reach out if you'd like to collaborate or just chat about development! 🤖
-
----
-
-## 🎯 Side Projects to Keep Me Busy
-- **Weather and Fitness Apps**: Because keeping track of your health and the weather is important. 🌦️💪
+### 💬 Feel free to reach out if you'd like to collaborate or just chat about development.
