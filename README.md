@@ -8,17 +8,19 @@ I like the part after the code works: shipping it, watching it in production, an
 
 ## What I've built
 
-**Prodrive Suspension** · [prodrivesuspension.com](https://www.prodrivesuspension.com/)  
-Online store for a Nairobi performance and rally suspension supplier. Customers browse by vehicle and part category, add to cart, see prices in KES, and send the finished order through WhatsApp.
+
+**Hospital Management System**  
+Patient records, appointments, and medicine inventory. Built for internal use, so the repository stays private.
 
 **Crestfield School** · [crestfieldschool.com](https://crestfieldschool.com)  
 Site for a Cambridge-curriculum tuition and homeschooling provider. Course information, remote/blended/on-campus options, enrolment, teacher profiles, and an application form for teaching roles.
 
-**Photo Gallery** · [live demo](https://photo-app-fbrf.onrender.com)  
+**Photo Gallery** 
 Browse, like, and filter images. A side project I built and deployed on Render.
 
-**Hospital Management System**  
-Patient records, appointments, and medicine inventory. Built for internal use, so the repository stays private.
+**Prodrive Suspension** · [prodrivesuspension.com](https://www.prodrivesuspension.com/)  
+Online store for a Nairobi performance and rally suspension supplier. Customers browse by vehicle and part category, add to cart, see prices in KES, and send the finished order through WhatsApp.
+
 
 ## Tools
 
