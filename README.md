@@ -4,7 +4,7 @@ Full-stack developer in Nairobi. I build web apps with React and Django, then de
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-I like the part after the code works: shipping it, watching it in production, and fixing what breaks. Lately I've been spending more time on the DevOps side too — AWS, Docker, CI/CD pipelines, and keeping deployments boring.
+I like the part after the code works: shipping it, watching it in production, and fixing what breaks. Lately I've been spending more time on the DevOps side too  AWS, Docker, CI/CD pipelines, and keeping deployments boring.
 
 ## What I've built
 
