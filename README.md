@@ -1,48 +1,43 @@
-# Hi there 👋, I'm Eugene Maina.
+# Eugene Maina
 
-Full-stack software engineer building web applications with React, Django, Node.js, and Python.
+Full-stack developer in Nairobi. I build web apps with React and Django, then deploy and run them on AWS.
 
----
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-### 🧑‍💻 About Me
+I like the part after the code works: shipping it, watching it in production, and fixing what breaks. Lately I've been spending more time on the DevOps side too — AWS, Docker, CI/CD pipelines, and keeping deployments boring.
 
-I'm a full-stack software engineer with experience across front-end and back-end development. I build user-friendly web applications using HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, and Django. I also work with web scraping and automation to turn data into useful insights.
+## What I've built
 
-I care about scalable, efficient software — from intuitive interfaces to robust back-end systems. Let's build something great. 🚀
+**Prodrive Suspension** · [prodrivesuspension.com](https://www.prodrivesuspension.com/)  
+Online store for a Nairobi performance and rally suspension supplier. Customers browse by vehicle and part category, add to cart, see prices in KES, and send the finished order through WhatsApp.
 
----
+**Crestfield School** · [crestfieldschool.com](https://crestfieldschool.com)  
+Site for a Cambridge-curriculum tuition and homeschooling provider. Course information, remote/blended/on-campus options, enrolment, teacher profiles, and an application form for teaching roles.
 
-### 🚀 Projects
+**Photo Gallery** · [live demo](https://photo-app-fbrf.onrender.com)  
+Browse, like, and filter images. A side project I built and deployed on Render.
 
-- **Prodrive Suspension** — [prodrivesuspension.com](https://www.prodrivesuspension.com/)
-  E-commerce storefront for a Nairobi performance and rally suspension supplier. Per-vehicle and per-category browsing, cart, KES pricing, and WhatsApp order checkout.
+**Hospital Management System**  
+Patient records, appointments, and medicine inventory. Built for internal use, so the repository stays private.
 
-- **Crestfield School** — [crestfieldschool.com](https://crestfieldschool.com)
-  Website for a Cambridge-curriculum tuition and homeschooling provider. Programme details, remote/blended/on-campus learning, enrolment, teacher profiles, and an online careers application form.
+## Tools
 
-- **Photo Gallery Web App** — [live demo](https://photo-app-fbrf.onrender.com)
-  Browse, like, and filter images.
+**Front end** — HTML, CSS, Tailwind CSS, JavaScript, React  
+**Back end** — Python, Django, Node.js  
+**Data** — MySQL, PostgreSQL, web scraping, automation  
+**DevOps / cloud** — AWS (EC2, S3), Docker, CI/CD, Linux
 
-- **Hospital Management System**
-  Patient records, appointments, and medicine inventory management.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+## Get in touch
 
-#### ⚙ 🔧 Languages, Frameworks & Tools
+Email: [maisheugene@gmail.com](mailto:maisheugene@gmail.com)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🔗 Connect with Me
-
-📫 **Email:** [maisheugene@gmail.com](mailto:maisheugene@gmail.com)
-
-### 💬 Feel free to reach out if you'd like to collaborate or just chat about development.
+Open to full-stack and DevOps roles, and to freelance work.
